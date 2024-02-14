@@ -1,2 +1,2 @@
 # pemdascpp
-Pemrograman Dasar dengan C++ dan Visual Studio
+Pemrograman Dasar dengan C++, NET dan Visual Studio
